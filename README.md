@@ -1,3 +1,2 @@
 # ( polly Gerald)
-#(Am a passionate software engineer student)
-#(Am currently studying)
+Am a passionate software engineer and currently studying.
