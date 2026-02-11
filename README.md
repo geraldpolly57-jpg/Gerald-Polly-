@@ -1,2 +1,6 @@
-# ( polly Gerald)
-Am a passionate software engineer and currently studying.
+# Hi, I'm Polly 
+##About me
+interested in coding and problem solving 
+##contact
+GitHub:@Gerald-Polly
+
