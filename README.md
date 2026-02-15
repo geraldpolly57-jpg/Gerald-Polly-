@@ -1,4 +1,4 @@
-Hi, I'm [Your Name]
+Hi, I'm [Polly Gerald]
 
 ## About Me
 - I'm currently learning [I'm studying computer programming"].
