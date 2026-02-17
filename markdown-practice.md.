@@ -5,14 +5,14 @@
 
 #  Text formatting. 
 
-###  I want to be a ** great software engineer** ,am * consistent*and practice coding everyday using'python' 
+###  I want to be a **great software engineer** ,am *consistent* and practice coding everyday using'python' 
   #  Links
 
 ##  GitHub user name ##(geraldpolly57jpg)
 
 #  Lists 
 #### Things i want to learn:
--python deeply
+- python deeply
 - Git and GitHub
 - web development
  ### steps to make a commit in Git:
@@ -29,15 +29,15 @@
    
   # Task list
 	  -[*] create a GitHub account 
-	 _[*] Learn Hello World in python 
-	- [] practice Git commands daily 
-	- [] Build my first website 
+	 -[*] Learn Hello World in python 
+	-[] practice Git commands daily 
+	-[] Build my first website 
 	 
 	 # Code Block 
 	```python
-	 print ("Hello World!")
+	 print("Hello World!")
 	   name="Polly"
-	 print ("Future Software Engineer")
+	 print("Future Software Engineer")
 	 
 	 # Block quote 
 	 >consistency beats motivation.
