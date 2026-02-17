@@ -1,12 +1,11 @@
- 1. # My Learning Goals 
-  ## This semester 
+# My Learning Goals 
+ ## This semester 
 
- 2.  # Text formatting 
+# Text formatting. 
 ### I want to be a ** great software engineer** ,am * consistent*and practice coding everyday using'python' 
-3.   # Links
+  # Links
 
 ## GitHub user name ### (geraldpolly57jpg)
-
 #  Lists 
 #### Things i want to learn:
 -python deeply
@@ -31,7 +30,7 @@
 	 [] Build my first website 
 	 
 	 # Code Block 
-	 '''python
+	```python
 	 print ("Hello World!")
 	   name="Polly"
 	 print ("Future Software Engineer")
