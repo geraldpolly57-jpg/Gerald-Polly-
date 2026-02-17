@@ -21,7 +21,7 @@ I want to be a ** great software engineer** ,am * consistent*and practice coding
    |Tool |Purpose|Link
    |------|-------|------
    |GitHub |store and manage code| https//github.com
-   |-------|--------------------|---------
+
    |VS code| write and edit code|https//code.visual.com
    
   # Task list
@@ -31,14 +31,14 @@ I want to be a ** great software engineer** ,am * consistent*and practice coding
 	 [] Build my first website 
 	 
 	 # Code Block 
-	 ### '''python'''
-	 ## print (Hello World!")
-	   ###name="Polly"
-	 ###print (Future Software Engineer:"name")
+	 '''python
+	 print ("Hello World!")
+	   name="Polly"
+	 print ("Future Software Engineer")
 	 
 	 # Block quote 
-	 "consistency beats motivation."
-	 Small daily progress creates big results.
+	 >consistency beats motivation.
+	> Small daily progress creates big results.
 	 
 	 # Bonus-About  me 
 	 
