@@ -1,14 +1,15 @@
 
-   # My Learning Goal 
- ## This semester
-## Am learning programming. 💻
+   #  My Learning Goal 
+ ##  This semester
+##  Am learning programming.  💻
 
-# Text formatting. 
+#  Text formatting. 
 
-### I want to be a ** great software engineer** ,am * consistent*and practice coding everyday using'python' 
-  # Links
+###  I want to be a ** great software engineer** ,am * consistent*and practice coding everyday using'python' 
+  #  Links
 
-## GitHub user name ### (geraldpolly57jpg)
+##  GitHub user name ##(geraldpolly57jpg)
+
 #  Lists 
 #### Things i want to learn:
 -python deeply
@@ -27,10 +28,10 @@
    |VS code| write and edit code|https//code.visual.com
    
   # Task list
-	 [*] create a GitHub account 
-	 [*] Learn Hello World in python 
-	 [] practice Git commands daily 
-	 [] Build my first website 
+	  -[*] create a GitHub account 
+	 _[*] Learn Hello World in python 
+	- [] practice Git commands daily 
+	- [] Build my first website 
 	 
 	 # Code Block 
 	```python
